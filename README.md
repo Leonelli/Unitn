@@ -5,6 +5,8 @@
 
 ## Geometria Lineare
 [Libro Geometria Occhetta](http://www.science.unitn.it/~occhetta/studenti/ganotest.pdf)
+[Esercizi Geometria Occhetta](http://www.science.unitn.it/~occhetta/studenti/gaex.pdf)
+
 
 ## Programmazione 1
 [Materiale Online rseba](http://disi.unitn.it/~rseba/DIDATTICA)
