@@ -17,3 +17,7 @@
 
 ## Drive Google
 [Drive primo semestre ingegneria](http://bit.ly/drive-folder).
+
+
+## Social notes
+[vecchi esami corso di informatica](https://socialnotes.eu).
