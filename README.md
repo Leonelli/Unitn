@@ -20,4 +20,4 @@
 
 
 ## Social notes
-[vecchi esami corso di informatica](https://socialnotes.eu).
+[ecchi esami corso di informatica](https://socialnotes.eu).
