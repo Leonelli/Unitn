@@ -20,6 +20,17 @@
 
 [Didattica Online](https://didatticaonline.unitn.it/dol/course/view.php?id=9068).
 
+
+## Probabilità e statistica
+[Sito Claudio](http://www.science.unitn.it/~claudio/teaching/ps/index.html).
+
+
+## Fondamenti Matematici per l'informatica
+[Sito pignatel](http://www.science.unitn.it/~pignatel/didattica/fmi/).
+[Dispense pignatel](http://www.science.unitn.it/~pignatel/didattica/fmi/Dispensa%20Luminati.pdf).
+
+
+
 ## Drive Google
 [Drive primo semestre ingegneria](http://bit.ly/drive-folder).
 
