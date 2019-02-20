@@ -21,7 +21,7 @@
 [Didattica Online](https://didatticaonline.unitn.it/dol/course/view.php?id=9068).
 
 
-## Probabilità e statistica
+## Probabilità e Statistica
 [Sito Claudio](http://www.science.unitn.it/~claudio/teaching/ps/index.html).
 
 
@@ -31,6 +31,10 @@
 [Dispense pignatel](http://www.science.unitn.it/~pignatel/didattica/fmi/Dispensa%20Luminati.pdf).
 
 
+## Liguaggi di Programmazione 1
+[Sito Ronchetti](http://latemar.science.unitn.it/segue/index.php?&site=2019Programmazione2&section=431&action=site).
+
+
 
 ## Drive Google
 [Drive primo semestre ingegneria](http://bit.ly/drive-folder).
@@ -38,3 +42,4 @@
 
 ## Social notes
 [Vecchi esami corso di informatica](https://socialnotes.eu).
+
