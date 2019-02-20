@@ -35,6 +35,10 @@
 [Sito Ronchetti](http://latemar.science.unitn.it/segue/index.php?&site=2019Programmazione2&section=431&action=site).
 
 
+## Calcolatori Elettronici
+[Slide](http://www.dit.unitn.it/~palopoli/courses/Calc/slides.html).
+
+
 
 ## Drive Google
 [Drive primo semestre ingegneria](http://bit.ly/drive-folder).
