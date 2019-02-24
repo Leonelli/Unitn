@@ -37,6 +37,9 @@
 ### Liguaggi di Programmazione 1
 [Sito Ronchetti](http://latemar.science.unitn.it/segue/index.php?&site=2019Programmazione2&section=431&action=site).
 
+[Orario Ronchetti](http://latemar.science.unitn.it/segue/index.php?&site=2019Programmazione2&section=434&action=site).
+
+
 ### Liguaggi di Programmazione 2
 [DidatticaOnline Kuper](https://didatticaonline.unitn.it/dol/course/view.php?id=13244).
 
