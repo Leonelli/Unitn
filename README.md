@@ -27,6 +27,8 @@
 ### Probabilità e Statistica
 [Sito Claudio](http://www.science.unitn.it/~claudio/teaching/ps/index.html).
 
+[Sito Esercizi](http://datascience.maths.unitn.it/ocpu/library/doexercises).
+
 
 ### Fondamenti Matematici per l'informatica
 [Sito pignatel](http://www.science.unitn.it/~pignatel/didattica/fmi/).
