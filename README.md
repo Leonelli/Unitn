@@ -47,7 +47,11 @@
 
 
 ### Calcolatori Elettronici
-[Slide](http://www.dit.unitn.it/~palopoli/courses/Calc/slides.html).
+
+[DidatticaOnline](https://didatticaonline.unitn.it/dol/course/view.php?id=13060).
+
+
+[Sito-deprecato](http://www.dit.unitn.it/~palopoli/courses/Calc/slides.html).
 
 ## Altri link
 
