@@ -35,6 +35,8 @@
 
 [Dispense pignatel](http://www.science.unitn.it/~pignatel/didattica/fmi/Dispensa%20Luminati.pdf).
 
+[Lista Teoremi](http://www.science.unitn.it/~pignatel/didattica/fmi/lista-teoremi-2016-2017.pdf).
+
 
 ### Liguaggi di Programmazione 1
 [Sito Ronchetti](http://latemar.science.unitn.it/segue/index.php?&site=2019Programmazione2&section=431&action=site).
