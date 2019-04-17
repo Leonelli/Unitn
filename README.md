@@ -39,7 +39,7 @@
 
 
 ### Linguaggi di Programmazione 1
-[Sito Ronchetti](http://latemar.science.unitn.it/segue/index.php?&site=2019Programmazione2&section=431&action=site).
+[Sito Ronchetti](http://latemar.science.unitn.it/segue/index.php?&site=2019Programmazione2&section=432&action=site).
 
 [Orario Ronchetti](http://latemar.science.unitn.it/segue/index.php?&site=2019Programmazione2&section=434&action=site).
 
