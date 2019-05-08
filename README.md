@@ -43,6 +43,8 @@
 
 [Orario Ronchetti](http://latemar.science.unitn.it/segue/index.php?&site=2019Programmazione2&section=434&action=site).
 
+[Tutorial Java](https://docs.oracle.com/javase/8/javase-clienttechnologies.htm).
+
 
 ### Linguaggi di Programmazione 2
 [DidatticaOnline Kuper](https://didatticaonline.unitn.it/dol/course/view.php?id=13244).
