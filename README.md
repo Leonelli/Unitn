@@ -29,6 +29,8 @@
 
 [Sito Esercizi](http://datascience.maths.unitn.it/ocpu/library/doexercises).
 
+[Sito correzione](https://unitn-statistica.herokuapp.com/index).
+
 
 ### Fondamenti Matematici per l'informatica
 [Sito pignatel](http://www.science.unitn.it/~pignatel/didattica/fmi/).
