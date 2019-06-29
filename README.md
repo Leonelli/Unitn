@@ -47,6 +47,8 @@
 
 [Tutorial Java](https://docs.oracle.com/javase/8/javase-clienttechnologies.htm).
 
+[Simulatore esami](https://unitn-tronchet.herokuapp.com/home).
+
 
 ### Linguaggi di Programmazione 2
 [DidatticaOnline Kuper](https://didatticaonline.unitn.it/dol/course/view.php?id=13244).
