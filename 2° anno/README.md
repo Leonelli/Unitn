@@ -12,7 +12,7 @@
 [Didattica Online](https://didatticaonline.unitn.it/dol/course/view.php?id=16085).
 
 ### Introduction to computer and network security
-[Sito Ranise](https://sites.google.com/view/intro2cns?hl=en)
+[Sito Ranise](https://sites.google.com/view/intro2cns?hl=en).
 
 ### Logica
 
