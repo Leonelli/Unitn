@@ -7,6 +7,8 @@
 
 [Sito Montresor ASD](http://cricca.disi.unitn.it/montresor/teaching/asd/).
 
+[Esami anni passati](http://cricca.disi.unitn.it/montresor/teaching/asd/materiale/esercizi/compiti/).
+
 ### Basi di dati
 
 
