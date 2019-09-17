@@ -15,7 +15,7 @@
 [Sito Ranise](https://sites.google.com/view/intro2cns?hl=en).
 
 ### Logica
-
+[KnowDive](http://knowdive.disi.unitn.it/logic/).
 
 ### Reti
 [Didattica Online](https://didatticaonline.unitn.it/dol/course/view.php?id=16033).
