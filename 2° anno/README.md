@@ -18,7 +18,8 @@
 
 
 ### Reti
-
+[Didattica Online](https://didatticaonline.unitn.it/dol/enrol/index.php?id=16033).
+[Anonimus question](https://app.sli.do/event/czseos9q/live/questions).
 
 ## Secondo semestre
 
