@@ -20,7 +20,7 @@
 ### Reti
 [Didattica Online](https://didatticaonline.unitn.it/dol/course/view.php?id=16033).
 
-[Sito Lo Cigno](https://disi.unitn.it/locigno/teaching-duties/reti/) (vedi esami veccchi).
+[Sito Lo Cigno](https://disi.unitn.it/locigno/teaching-duties/reti/). (vedi esami veccchi)
 
 [Anonimus question](https://app.sli.do/event/czseos9q/live/questions).
 
