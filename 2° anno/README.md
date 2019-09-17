@@ -5,7 +5,7 @@
 ### Algoritmi e strutture dati
 [Slide](http://cricca.disi.unitn.it/montresor/teaching/asd/materiale/lucidi/).
 
-[Sito Montresor asd](http://cricca.disi.unitn.it/montresor/teaching/asd/).
+[Sito Montresor ASD](http://cricca.disi.unitn.it/montresor/teaching/asd/).
 
 ### Basi di dati
 
