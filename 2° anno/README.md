@@ -21,6 +21,8 @@
 ### Logica
 [KnowDive](http://knowdive.disi.unitn.it/logic/).
 
+[Slack](https://app.slack.com/client/TND6WBAKA/learning-slack).
+
 ### Reti
 [Didattica Online](https://didatticaonline.unitn.it/dol/course/view.php?id=16033).
 
