@@ -19,6 +19,8 @@
 ### Introduction to computer and network security
 [Sito Ranise](https://sites.google.com/view/intro2cns?hl=en).
 
+[Slide](https://sites.google.com/view/intro2cns/syllabus/201920?authuser=0).
+
 ### Logica
 [KnowDive](http://knowdive.disi.unitn.it/logic/).
 
