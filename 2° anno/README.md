@@ -5,6 +5,8 @@
 ### Algoritmi e strutture dati
 [Slide](http://cricca.disi.unitn.it/montresor/teaching/asd/materiale/lucidi/).
 
+[Laboratorio](https://judge.science.unitn.it/slides/).
+
 [Sito Montresor ASD](http://cricca.disi.unitn.it/montresor/teaching/asd/).
 
 [Esami anni passati](http://cricca.disi.unitn.it/montresor/teaching/asd/materiale/esercizi/compiti/).
