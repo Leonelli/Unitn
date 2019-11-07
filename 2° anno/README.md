@@ -30,6 +30,8 @@
 
 [Slack](https://app.slack.com/client/TND6WBAKA/learning-slack).
 
+[Quiz online](https://www.onlineexambuilder.com/it/pl-fol/exam-308236).
+
 ### Reti
 [Didattica Online](https://didatticaonline.unitn.it/dol/course/view.php?id=16033).
 
