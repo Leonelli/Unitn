@@ -11,6 +11,8 @@
 
 [Esami anni passati](http://cricca.disi.unitn.it/montresor/teaching/asd/materiale/esercizi/compiti/).
 
+[Video Lezioni](https://www.youtube.com/watch?v=eDvoPtXvpyc&list=PL6LfWZm2MAHTZrI8EJhC0HUa5gLh9h195).
+
 ### Basi di dati
 [Google Classroom](https://classroom.google.com/u/1/c/MzcyNzQzMTc4MzRa).
 
