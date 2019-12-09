@@ -13,6 +13,8 @@
 
 [Video Lezioni](https://www.youtube.com/watch?v=eDvoPtXvpyc&list=PL6LfWZm2MAHTZrI8EJhC0HUa5gLh9h195).
 
+[Ranking Progetto](https://judge.science.unitn.it/arena/ranking/Ranking.html).
+
 ### Basi di dati
 [Google Classroom](https://classroom.google.com/u/1/c/MzcyNzQzMTc4MzRa).
 
