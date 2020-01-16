@@ -18,6 +18,7 @@
 ### Basi di dati
 [Google Classroom](https://classroom.google.com/u/1/c/MzcyNzQzMTc4MzRa).
 
+[BCNF](https://uisacad5.uis.edu/cgi-bin/mcrem2/database_design_tool.cgi).
 
 ### Ingegneria del software
 [Didattica Online](https://didatticaonline.unitn.it/dol/course/view.php?id=16085).
