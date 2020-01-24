@@ -15,6 +15,8 @@
 
 [Ranking Progetto](https://judge.science.unitn.it/arena/ranking/Ranking.html).
 
+[Slide tutorato](https://drive.google.com/drive/u/2/folders/10PPwsTlLikMIvVPJq_2s-KLYN-S2yU_W).
+
 ### Basi di dati
 [Google Classroom](https://classroom.google.com/u/1/c/MzcyNzQzMTc4MzRa).
 
