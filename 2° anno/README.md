@@ -2,7 +2,7 @@
 
 ## Primo semestre
 
-### Algoritmi e strutture dati
+### Algoritmi e strutture dati I
 [Slide](http://cricca.disi.unitn.it/montresor/teaching/asd/materiale/lucidi/).
 
 [Laboratorio](https://judge.science.unitn.it/slides/).
@@ -47,6 +47,32 @@
 [Anonimus question](https://app.sli.do/event/czseos9q/live/questions).
 
 ## Secondo semestre
+
+### Algoritmi e strutture dati II
+[Slide](http://cricca.disi.unitn.it/montresor/teaching/asd/materiale/lucidi/).
+
+[Laboratorio](https://judge.science.unitn.it/slides/).
+
+[Sito Montresor ASD](http://cricca.disi.unitn.it/montresor/teaching/asd/).
+
+[Esami anni passati](http://cricca.disi.unitn.it/montresor/teaching/asd/materiale/esercizi/compiti/).
+
+[Video Lezioni](https://www.youtube.com/watch?v=eDvoPtXvpyc&list=PL6LfWZm2MAHTZrI8EJhC0HUa5gLh9h195).
+
+[Ranking Progetto](https://judge.science.unitn.it/arena/ranking/Ranking.html).
+
+[Slide tutorato](https://drive.google.com/drive/u/2/folders/10PPwsTlLikMIvVPJq_2s-KLYN-S2yU_W).
+
+
+### Fisica
+
+
+
+### Fondamenti di sistemi operativi
+
+
+
+### Introduzione alla programmazione per il web
 
 
 
