@@ -66,7 +66,7 @@ Lezione fontale..
 
 ### Fondamenti di sistemi operativi
 
-[DIdattica](https://didatticaonline.unitn.it/dol/course/view.php?id=18212). (to check)
+[Didattica](https://didatticaonline.unitn.it/dol/course/view.php?id=18212). (to check)
 
 
 ### Introduzione alla programmazione per il web
