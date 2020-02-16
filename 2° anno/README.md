@@ -55,24 +55,23 @@
 
 [Sito Montresor ASD](http://cricca.disi.unitn.it/montresor/teaching/asd/).
 
-[Esami anni passati](http://cricca.disi.unitn.it/montresor/teaching/asd/materiale/esercizi/compiti/).
-
 [Video Lezioni](https://www.youtube.com/watch?v=eDvoPtXvpyc&list=PL6LfWZm2MAHTZrI8EJhC0HUa5gLh9h195).
-
-[Ranking Progetto](https://judge.science.unitn.it/arena/ranking/Ranking.html).
 
 [Slide tutorato](https://drive.google.com/drive/u/2/folders/10PPwsTlLikMIvVPJq_2s-KLYN-S2yU_W).
 
 
 ### Fisica
-
+Lezione fontale..
 
 
 ### Fondamenti di sistemi operativi
 
+[DIdattica](https://didatticaonline.unitn.it/dol/course/view.php?id=18212). (to check)
 
 
 ### Introduzione alla programmazione per il web
+
+[Sito Ronchetti](http://latemar.science.unitn.it/segue/index.php?&site=ronchet&section=32&page=1519&action=site). (to fix)
 
 
 
