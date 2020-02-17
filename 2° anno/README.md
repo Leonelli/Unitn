@@ -73,6 +73,8 @@ Lezione fontale..
 
 [Sito Ronchetti](http://latemar.science.unitn.it/segue/index.php?&site=ronchet&section=32&page=1519&action=site). (to fix)
 
+[Piazza](http://piazza.com/unitn.it/spring2020/programmazioneweb).
+
 
 ### B2
 [CLA](https://cialsrv.unitn.it/cialweb/web-site/ShWebLogin.jsp).
