@@ -75,6 +75,8 @@ Lezione fontale..
 
 [Piazza](http://piazza.com/unitn.it/spring2020/programmazioneweb).
 
+[Slide](https://piazza.com/unitn.it/spring2020/programmazioneweb/resources).
+
 
 ### B2
 [CLA](https://cialsrv.unitn.it/cialweb/web-site/ShWebLogin.jsp).
