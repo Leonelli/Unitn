@@ -61,17 +61,17 @@
 
 
 ### Fisica
-Lezione fontale..
+[Didattica](https://didatticaonline.unitn.it/dol/course/view.php?id=19880).
 
 
 ### Fondamenti di sistemi operativi
 
-[Didattica](https://didatticaonline.unitn.it/dol/course/view.php?id=18212). (to check)
+[Didattica](https://didatticaonline.unitn.it/dol/course/view.php?id=18212).
 
 
 ### Introduzione alla programmazione per il web
 
-[Sito Ronchetti](http://latemar.science.unitn.it/segue/index.php?&site=ronchet&section=32&page=1519&action=site). (to fix)
+[Sito Ronchetti](http://latemar.science.unitn.it/segue/index.php?&site=ronchet&section=32&page=1519&action=site).
 
 [Piazza](http://piazza.com/unitn.it/spring2020/programmazioneweb).
 
