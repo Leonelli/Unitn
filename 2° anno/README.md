@@ -59,6 +59,8 @@
 
 [Slide tutorato](https://drive.google.com/drive/u/2/folders/10PPwsTlLikMIvVPJq_2s-KLYN-S2yU_W).
 
+[Coronavirus](http://cricca.disi.unitn.it/montresor/teaching/asd/emergenza-coronavirus/).
+
 
 ### Fisica
 [Didattica](https://didatticaonline.unitn.it/dol/course/view.php?id=19880).
