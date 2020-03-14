@@ -85,6 +85,8 @@
 
 [Didattica](http://didatticaonline.unitn.it/cla/).
 
+[Tedesco](https://didatticaonline.unitn.it/cla/course/view.php?id=3376).
+
 ## Altri link
 
 ### Drive Google
