@@ -80,9 +80,10 @@
 [Slide](https://piazza.com/unitn.it/spring2020/programmazioneweb/resources).
 
 
-### B2
+### CLA
 [CLA](https://cialsrv.unitn.it/cialweb/web-site/ShWebLogin.jsp).
 
+[Didattica](http://didatticaonline.unitn.it/cla/).
 
 ## Altri link
 
