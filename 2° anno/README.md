@@ -89,6 +89,8 @@
 
 [Canoonet](http://www.canoonet.eu).
 
+[Libro pdf](https://www.academia.edu/38848254/NETZWERK_A1_PARTE_1_KURSBUCH_UND_ARBEITSBUCH).
+
 ## Altri link
 
 ### Drive Google
