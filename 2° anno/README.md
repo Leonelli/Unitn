@@ -87,6 +87,8 @@
 
 [Tedesco](https://didatticaonline.unitn.it/cla/course/view.php?id=3376).
 
+[Canoonet](http://www.canoonet.eu).
+
 ## Altri link
 
 ### Drive Google
