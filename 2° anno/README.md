@@ -70,6 +70,8 @@
 
 [Didattica](https://didatticaonline.unitn.it/dol/course/view.php?id=18212).
 
+[Laboratorio](https://didatticaonline.unitn.it/dol/mod/forum/view.php?id=382064).
+
 
 ### Introduzione alla programmazione per il web
 
