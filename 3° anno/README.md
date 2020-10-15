@@ -5,8 +5,12 @@
 
 ### SOI
 
-[Basic of Managment](https://didatticaonline.unitn.it/dol/course/view.php?id=27645)
+[Basic of Managment Didattica](https://didatticaonline.unitn.it/dol/course/view.php?id=27645)
 
+[Basic of Managment Zoom](https://unitn.zoom.us/j/89641740909?pwd=TDlVMTFiZkpFczE4Z0lrN0k0aWdNUT09#success)
+
+
+[International Entrepreneurship-From idea to business idea](https://unitn.zoom.us/j/95117441017) (Password: 051889) 
 
 ### Saarbrucken
 
