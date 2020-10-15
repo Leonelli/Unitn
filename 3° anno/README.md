@@ -20,12 +20,17 @@
 ## Secondo semestre
 
 
+
+## Tutor Programmazione 1
+
+[Didattica Online Programmazione 1](https://didatticaonline.unitn.it/dol/course/view.php?id=23816)
+
 ## Altri link
 
 ### Drive Google
-[Drive primo semestre ingegneria](http://bit.ly/drive-folder).
+[Drive primo semestre ingegneria](http://bit.ly/drive-folder)
 
 
 ### Social notes
-[Vecchi esami corso di informatica](https://socialnotes.eu).
+[Vecchi esami corso di informatica](https://socialnotes.eu)
 
