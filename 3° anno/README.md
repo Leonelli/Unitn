@@ -17,7 +17,15 @@
 ### Saarbrucken
 
 
+[Compiler Construction](https://cms.sic.saarland/cc20/)
 
+[Human Computer Interaction WebSite](https://hci.cs.uni-saarland.de/hci2020/)
+
+[Human Computer Interaction Moodle](https://hci-lecture.cs.uni-saarland.de/index.php?)
+
+[Security](https://cms.cispa.saarland/sec2021/)
+
+[Software Engeneering](https://cms.sic.saarland/se_2021/)
 
 ## Secondo semestre
 
