@@ -21,11 +21,24 @@
 
 [Human Computer Interaction WebSite](https://hci.cs.uni-saarland.de/hci2020/)
 
-[Human Computer Interaction Moodle](https://hci-lecture.cs.uni-saarland.de/index.php?)
+[Human Computer Interaction Moodle](https://hci-lecture.cs.uni-saarland.de/course/view.php?id=19)
 
 [Security](https://cms.cispa.saarland/sec2021/)
 
 [Software Engeneering](https://cms.sic.saarland/se_2021/)
+
+
+### Link Saarbrucken
+
+[Mail](http://webmail.uni-saarland.de/)
+
+[Lectures](http://lsf.uni-saarland.de/)
+
+[Accounts](http://sim.uni-saarland.de/)
+
+[StudiBeggining](https://www.uni-saarland.de/studieren/studienbeginn.html)
+
+
 
 ## Secondo semestre
 
