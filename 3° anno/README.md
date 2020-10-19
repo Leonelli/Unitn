@@ -9,10 +9,11 @@
 
 [Basic of Managment Zoom](https://unitn.zoom.us/j/89641740909?pwd=TDlVMTFiZkpFczE4Z0lrN0k0aWdNUT09#success)
 
-
 [International Entrepreneurship-From idea to business idea Didattica](https://didatticaonline.unitn.it/dol/course/view.php?id=26557)
 
 [International Entrepreneurship-From idea to business idea Zoom](https://unitn.zoom.us/j/95117441017) (Password: 051889) 
+
+[Strategyzing in a digital environment Didattica](https://didatticaonline.unitn.it/dol/course/view.php?id=27849)
 
 [Strategyzing in a digital environment Zoom](https://unitn.zoom.us/j/83762300161) (Passcode: 975968)
 
