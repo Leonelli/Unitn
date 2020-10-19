@@ -14,6 +14,8 @@
 
 [International Entrepreneurship-From idea to business idea Zoom](https://unitn.zoom.us/j/95117441017) (Password: 051889) 
 
+[Strategyzing in a digital environment Zoom](https://unitn.zoom.us/j/83762300161) (Passcode: 975968)
+
 ### Saarbrucken
 
 
