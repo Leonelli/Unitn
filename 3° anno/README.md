@@ -38,6 +38,8 @@
 
 [StudiBeggining](https://www.uni-saarland.de/studieren/studienbeginn.html)
 
+[Covid](https://corona.saarland.de)
+
 
 
 ## Secondo semestre
