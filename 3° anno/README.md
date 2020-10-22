@@ -11,7 +11,7 @@
 
 [International Entrepreneurship-From idea to business idea Didattica](https://didatticaonline.unitn.it/dol/course/view.php?id=26557)
 
-[International Entrepreneurship-From idea to business idea Zoom](https://unitn.zoom.us/j/95117441017) (Password: 051889) 
+[International Entrepreneurship-From idea to business idea Zoom](https://unitn.zoom.us/w/95117441017?tk=qClXZmPQ_l-c26SwCKpv8XxANCMEONJHX5Z5hCOvuGY.DQIAAAAWJXD3-RZJRS1iWFpBYlFvS09RdFJ0YnRXalVRAAAAAAAAAAAAAAAAAAAAAAAAAAAA) (Password: 051889) 
 
 [Strategyzing in a digital environment Didattica](https://didatticaonline.unitn.it/dol/course/view.php?id=27849)
 
