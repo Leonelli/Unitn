@@ -45,6 +45,10 @@
 
 [Biblioteca](https://raumbuchung.sulb.uni-saarland.de/Web/)
 
+[Covid Rai Tedesca]()
+
+[Palestra](https://www.uni-saarland.de/en/institution/sports/unifit.html##/Home/KursListe?filter=eyJLYXRlZ29yaWVJRExpc3QiOiJbN10iLCJtb2RlIjoiU3BvcnQiLCJhbnNpY2h0IjoiS2FsZW5kZXIiLCJXZWVrZGF5cyI6W10sIkt1cnNlIjpbXSwiTG9jYXRpb25JRHMiOltdLCJmcm9tVGltZSI6IjIwMjAtMTAtMjJUMjI6MDA6MDAuMDAwWiJ9)
+
 
 
 ## Secondo semestre
