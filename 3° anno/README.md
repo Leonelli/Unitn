@@ -61,7 +61,8 @@
 
 [Sito Roveri Programmazione 1](https://sites.google.com/view/marco-roveri/teaching/pgm1-2021)
 
-[Aula Zoom](https://unitn.zoom.us/j/87809347036)
+[Aula Zoom](https://unitn.zoom.us/j/87809347036) Passcode: 162202
+
 
 ## Altri link
 
