@@ -30,6 +30,8 @@
 
 [Software Engeneering](https://cms.sic.saarland/se_2021/)
 
+[Tedesco Moodle Group E](https://lms.sulb.uni-saarland.de/moodle/course/view.php?id=2349)
+
 
 ### Link Saarbrucken
 
@@ -45,7 +47,7 @@
 
 [Biblioteca](https://raumbuchung.sulb.uni-saarland.de/Web/)
 
-[Covid Rai Tedesca]()
+[Covid Rai Tedesca](https://www.tagesschau.de/)
 
 [Palestra](https://www.uni-saarland.de/en/institution/sports/unifit.html##/Home/KursListe?filter=eyJLYXRlZ29yaWVJRExpc3QiOiJbN10iLCJtb2RlIjoiU3BvcnQiLCJhbnNpY2h0IjoiS2FsZW5kZXIiLCJXZWVrZGF5cyI6W10sIkt1cnNlIjpbXSwiTG9jYXRpb25JRHMiOltdLCJmcm9tVGltZSI6IjIwMjAtMTAtMjJUMjI6MDA6MDAuMDAwWiJ9)
 
