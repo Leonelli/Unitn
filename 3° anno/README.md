@@ -32,6 +32,7 @@
 
 [Tedesco Moodle Group E](https://lms.sulb.uni-saarland.de/moodle/course/view.php?id=2349)
 
+[Tedesco Zoom](https://zoom.us/j/92023827380?pwd=SXVWWjRDSzllbTM1blRsZFloNE5pQT09) Meeting-ID: 920 2382 7380  - Kenncode: 6ze6jb
 
 ### Link Saarbrucken
 
@@ -65,6 +66,7 @@
 
 [Aula Zoom](https://unitn.zoom.us/j/87809347036) Passcode: 162202
 
+[Contenuti Lezioni](https://docs.google.com/spreadsheets/d/19EyX_skg2eB25-djOZQL--OqcEK9sZlwlzYTQ7O0X0Y/edit?ts=5f886a81#gid=1913924564)
 
 ## Altri link
 
