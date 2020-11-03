@@ -26,6 +26,8 @@
 
 [Human Computer Interaction Moodle](https://hci-lecture.cs.uni-saarland.de/course/view.php?id=19)
 
+[HCI](https://hci-lecture.cs.uni-saarland.de/my/?myoverviewtab=timeline)
+
 [Security](https://cms.cispa.saarland/sec2021/)
 
 [Software Engeneering](https://cms.sic.saarland/se_2021/)
