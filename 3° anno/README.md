@@ -32,7 +32,7 @@
 
 [Software Engeneering](https://cms.sic.saarland/se_2021/)
 
-[Tedesco Moodle Group E](https://lms.sulb.uni-saarland.de/moodle/course/view.php?id=2349)
+[Tedesco Moodle Group F](https://lms.sulb.uni-saarland.de/moodle/course/view.php?id=2350)
 
 [Tedesco Zoom](https://zoom.us/j/92023827380?pwd=SXVWWjRDSzllbTM1blRsZFloNE5pQT09)
 Meeting-ID: 920 2382 7380  - Kenncode: 6ze6jb
