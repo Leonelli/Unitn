@@ -17,6 +17,8 @@
 
 [Strategyzing in a digital environment Zoom](https://unitn.zoom.us/j/83762300161) (Passcode: 975968)
 
+[An introduction to FinTech: blockchains and all that Classroom](https://classroom.google.com/u/1/c/MTY5MTg1NDcyOTgx)
+
 ### Saarbrucken
 
 
