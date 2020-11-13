@@ -24,6 +24,8 @@
 
 [Compiler Construction](https://cms.sic.saarland/cc20/)
 
+[GitLab CC](https://cc.cdl.uni-saarland.de)
+
 [Human Computer Interaction WebSite](https://hci.cs.uni-saarland.de/hci2020/)
 
 [Human Computer Interaction Moodle](https://hci-lecture.cs.uni-saarland.de/course/view.php?id=19)
