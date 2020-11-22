@@ -32,6 +32,8 @@
 
 [HCI](https://hci-lecture.cs.uni-saarland.de/my/?myoverviewtab=timeline)
 
+[HCI drive material](https://drive.google.com/drive/u/2/folders/1FANMQnWA7Inp772pGLEM9L0lSwEuCH4q)
+
 [Security](https://cms.cispa.saarland/sec2021/)
 
 [Software Engeneering](https://cms.sic.saarland/se_2021/)
