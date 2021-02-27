@@ -64,7 +64,9 @@
 
 ## Secondo semestre
 
+## Corso Intensivo Tedesco
 
+[Gruppo D](https://lms.sulb.uni-saarland.de/moodle/course/view.php?id=2024)
 
 ## Tutor Programmazione 1
 
