@@ -68,6 +68,10 @@
 
 [Gruppo D](https://lms.sulb.uni-saarland.de/moodle/course/view.php?id=2024)
 
+[Conjugation](https://conjugator.reverso.net/conjugation-german-verb-sehen.html)
+
+[Artikel](https://der-artikel.de/der/Rucksack.html)
+
 ## Tutor Programmazione 1
 
 [Didattica Online Programmazione 1](https://didatticaonline.unitn.it/dol/course/view.php?id=23816)
