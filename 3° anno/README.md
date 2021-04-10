@@ -64,6 +64,40 @@
 
 ## Secondo semestre
 
+
+### Saarbrucken
+
+[Artificial Intelligence](https://cms.sic.saarland/ai_21/)
+
+[Cryptography](https://cms.cispa.saarland/crypto21/)
+
+[Interactive Systems](https://cms.sic.saarland/is_sose21/)
+
+[Machine Learning](https://cms.sic.saarland/ml/)
+
+[Privacy Enhancing Technologies](https://cms.cispa.saarland/pets2021/)
+
+[Distributed Systems](http://courses.mpi-sws.org/ds-ss21/)
+
+[Distributed Systems Moodle](https://moodle.mpi-sws.org/enrol/index.php?id=40)
+
+[Ethics for Nerds](https://dcms.cs.uni-saarland.de/ethics_21/)
+
+[Interactive Systems](https://cms.sic.saarland/is_sose21/)
+
+[Foundations of Web Security](https://cms.cispa.saarland/websec21/)
+
+[Machine Learning](https://cms.sic.saarland/ml/)
+
+[Privacy Enhancing Technologies](https://cms.cispa.saarland/pets2021/)
+
+[Space Informatics](https://dcms.cs.uni-saarland.de/spain21/)
+
+[Usable Security](https://cms.cispa.saarland/usec21/)
+
+
+
+
 ## Corso Intensivo Tedesco
 
 [Gruppo D](https://lms.sulb.uni-saarland.de/moodle/course/view.php?id=2024)
