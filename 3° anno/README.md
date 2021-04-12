@@ -69,6 +69,8 @@
 
 [Artificial Intelligence](https://cms.sic.saarland/ai_21/)
 
+[Artificial Intelligence Moodle](https://lms.sulb.uni-saarland.de/moodle/course/view.php?id=4836)
+
 [Cryptography](https://cms.cispa.saarland/crypto21/)
 
 [Interactive Systems](https://cms.sic.saarland/is_sose21/)
