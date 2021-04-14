@@ -73,12 +73,6 @@
 
 [Cryptography](https://cms.cispa.saarland/crypto21/)
 
-[Interactive Systems](https://cms.sic.saarland/is_sose21/)
-
-[Machine Learning](https://cms.sic.saarland/ml/)
-
-[Privacy Enhancing Technologies](https://cms.cispa.saarland/pets2021/)
-
 [Distributed Systems](http://courses.mpi-sws.org/ds-ss21/)
 
 [Distributed Systems Moodle](https://moodle.mpi-sws.org/enrol/index.php?id=40)
@@ -96,6 +90,10 @@
 [Space Informatics](https://dcms.cs.uni-saarland.de/spain21/)
 
 [Usable Security](https://cms.cispa.saarland/usec21/)
+
+[Embedded Systems](https://cms.sic.saarland/es21/)
+
+[CySec Project Summer Term '21](https://cms.cispa.saarland/cysecproj21/)
 
 
 
