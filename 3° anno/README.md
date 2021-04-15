@@ -61,6 +61,8 @@
 
 [Casi Saarbrucken](https://www.saarland.de/DE/portale/corona/service/aktuelle-lage/aktuelle-lage_node.html)
 
+[Test Zentrum](https://eu5.bookingkit.de/onPage/detail?cw=45216d615554312960f32cd461aad326&preview=1&e=54ec455cd74f1c2a0077080e30c9bd27)
+
 
 ## Secondo semestre
 
